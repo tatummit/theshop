@@ -1,0 +1,11 @@
+target/
+.git
+*.iml
+.idea
+.project
+.classpath
+.springBeans
+.settings/*
+*/.settings/*
+*/workspace.xml
+*/google.properties
